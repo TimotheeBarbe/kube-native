@@ -1,7 +1,6 @@
 MSR:
-  FQDN: <image registry dynamic DNS>
+  FQDN: zvzqpyo349nhkbx2r-fljfbkzaihmejedql.labs.strigo.io
   port: 4443
-
 DB:
   tag: '1.0'
 
